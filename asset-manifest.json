@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/selfcar/static/css/main.40f116a2.chunk.css",
+    "main.js": "/selfcar/static/js/main.94e170c1.chunk.js",
+    "main.js.map": "/selfcar/static/js/main.94e170c1.chunk.js.map",
+    "runtime-main.js": "/selfcar/static/js/runtime-main.edbf35af.js",
+    "runtime-main.js.map": "/selfcar/static/js/runtime-main.edbf35af.js.map",
+    "static/js/2.226ce09a.chunk.js": "/selfcar/static/js/2.226ce09a.chunk.js",
+    "static/js/2.226ce09a.chunk.js.map": "/selfcar/static/js/2.226ce09a.chunk.js.map",
+    "index.html": "/selfcar/index.html",
+    "precache-manifest.ec25a3cc994e3058c8d1cc933899e68c.js": "/selfcar/precache-manifest.ec25a3cc994e3058c8d1cc933899e68c.js",
+    "service-worker.js": "/selfcar/service-worker.js",
+    "static/css/main.40f116a2.chunk.css.map": "/selfcar/static/css/main.40f116a2.chunk.css.map",
+    "static/js/2.226ce09a.chunk.js.LICENSE.txt": "/selfcar/static/js/2.226ce09a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/selfcar/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edbf35af.js",
+    "static/js/2.226ce09a.chunk.js",
+    "static/css/main.40f116a2.chunk.css",
+    "static/js/main.94e170c1.chunk.js"
+  ]
+}
